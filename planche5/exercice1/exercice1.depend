@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1733061561 source:d:\cpp\les planches d'exercices\planche5\exercice1\main.cpp
+	<iostream>
+	"etudiant.h"
+	<string>
+
+1733063694 source:d:\cpp\les planches d'exercices\planche5\exercice1\src\etudiant.cpp
+	"etudiant.h"
+	<string>
+	<iostream>
+
+1733063986 d:\cpp\les planches d'exercices\planche5\exercice1\include\etudiant.h
+	<string>
+
